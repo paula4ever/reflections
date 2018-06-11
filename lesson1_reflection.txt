@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+   A: It was very easy and quick to see the difference between the two versions.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    A: It allows you to control in a efficient way the changes made during a certain period and catch quickly previous mistakes.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    A:manually it gives the control to user to choose when he should commit. However automatically helps if someone forget to commit the change so that it can be used in future if needed. however its mandatory to have more resources.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    A: Like in Git if you alter a file that is linked to another it will reflect on both, therefore its necessary to change both in one commit, however its not 
+the same on others systems, since it they consider that every file is unique and its not linked to other.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    A: yes. Git log - shows all the changes made and who did it on the Git directory. Git diff -u serial_number1 serial_number2 - shows the difference between the two serial_numbers selected from a file in Git directoy.  
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    A: As a novice working in a group is very challeging to alter things on a file witout the risck of ruin it. With this tool gives me more confident to make the change since it is easier to rollback versions.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    A: Gain more skills to be able to work on my environment.
+
